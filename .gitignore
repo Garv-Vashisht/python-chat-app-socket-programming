@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Logs generated at runtime (raw server/client console dumps)
+logs/*.log
+
+# Keep sample transcripts and screenshots tracked (do NOT ignore these)
+!logs/.gitkeep

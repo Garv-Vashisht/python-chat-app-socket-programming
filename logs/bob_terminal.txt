@@ -1,0 +1,13 @@
+$ python client.py bob
+welcome please set your nickname
+connected type /help for commands
+[05:56:45] system hello bob type /help for help
+[05:56:45] system carol joined
+[05:56:45] alice: hello everyone, this is alice
+hey alice, bob here
+@alice can we talk privately?
+[05:56:47] private to alice: can we talk privately?
+[05:56:48] private from alice: sure, what's up?
+[05:56:48] system user renamed to carol_j
+[05:56:49] carol_j: renamed myself, testing nick change
+/quit
