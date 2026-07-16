@@ -271,7 +271,7 @@ interview questions with model answers, including "Explain your project."
 
 ---
 
-## 👤 Author
+## 👤 Author - Garv Vashisht
 
 Built as a Java-course-inspired systems/networking portfolio project,
 implemented in Python for portability and ease of review.
